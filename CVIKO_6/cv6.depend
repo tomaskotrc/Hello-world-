@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1635820072 source:/home/klima/Documents/FS/PIA1/2021/cv6/main.cpp
+	<iostream>
+	<memory>
+	"Shape.h"
+	"MC_Integrace.h"
+
+1635851465 /home/klima/Documents/FS/PIA1/2021/cv6/include/Shape.h
+
+1635851216 source:/home/klima/Documents/FS/PIA1/2021/cv6/src/Shape.cpp
+	"Shape.h"
+	<cmath>
+
+1635850442 /home/klima/Documents/FS/PIA1/2021/cv6/include/MC_Integrace.h
+	"Shape.h"
+	<random>
+
+1635851186 source:/home/klima/Documents/FS/PIA1/2021/cv6/src/MC_Integrace.cpp
+	"MC_Integrace.h"
+
+1636407666 source:d:\documents\codeblock\cviko_6\src\shape.cpp
+	"Shape.h"
+	<cmath>
+
+1636406775 d:\documents\codeblock\cviko_6\include\shape.h
+
+1636406774 source:d:\documents\codeblock\cviko_6\main.cpp
+	<iostream>
+	<memory>
+	"Shape.h"
+	"MC_Integrace.h"
+
+1636406775 d:\documents\codeblock\cviko_6\include\mc_integrace.h
+	"Shape.h"
+	<random>
+	<fstream>
+
+1635863165 source:d:\documents\codeblock\cviko_6\src\mc_integrace.cpp
+	"MC_Integrace.h"
+
